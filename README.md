@@ -4,15 +4,6 @@ Code repository for the paper "Online Client Selection and Pricing for AoI-aware
 
 ---
 
-## 📑 Table of Contents
-
-- [Repository Structure](#-repository-structure)
-- [Environment Setup](#-environment-setup)
-- [Dataset Preparation](#-dataset-preparation)
-- [Running Experiments](#-running-experiments)
-
----
-
 ## 📂 Repository Structure
 
 The codebase is modularized to handle entirely different data modalities (Image and IoT tabular data) seamlessly.
