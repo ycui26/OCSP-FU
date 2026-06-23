@@ -22,7 +22,7 @@ OCSP_FU/
 ├── main_cv.py               # Main execution script for Image datasets
 ├── main_iot.py              # Main execution script for IoT dataset
 ├── requirements.txt         # Python environment dependencies
-├── Online Appendix.pdf      # Online Technical Report
+├── Online-Technical-Report.pdf      # Online Technical Report
 └── README.md                # This file
 ```
 
